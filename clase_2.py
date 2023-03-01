@@ -9,7 +9,7 @@ class Persona():
     def __init__(self, rut, nombre, apellido):
         self.rut = rut
         self.nombre = nombre
-        self.apellido = apellido
+        self.a´pellido = apellido
 
     def caminar(self, **kwargs):
         if not 'velocidad' in kwargs:
