@@ -36,7 +36,7 @@ class Datos():
     for elemento in lista:
       self.personas.append(Persona(elemento['name'], elemento['age'], elemento['city']))
     return self.personas
-  
+
   def guardar(self) -> None:
     with open('data.json', 'w') as filehandle:
       json.dump(self.personas, filehandle, indent=2, default=lambda o: o.__dict__)
