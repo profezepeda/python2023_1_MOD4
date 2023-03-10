@@ -1,26 +1,20 @@
 [
     {
-        "rut": "1-9",
-        "nombre": "Juan",
-        "apellido": "Perez",
-        "_saldo": 103019
-    },
-    {
         "rut": "3-9",
         "nombre": "Maria",
         "apellido": "Gonzalez",
-        "_saldo": 268098
+        "_saldo": 254906
     },
     {
         "rut": "4-9",
         "nombre": "Jose",
         "apellido": "Perez",
-        "_saldo": 100856
+        "_saldo": 215860
     },
     {
         "rut": "5-9",
         "nombre": "Luis",
         "apellido": "Gonzalez",
-        "_saldo": 288306
+        "_saldo": 107992
     }
 ]
